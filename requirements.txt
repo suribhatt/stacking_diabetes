@@ -14,7 +14,7 @@ htmlmin==0.1.12
 ImageHash==4.1.0
 importlib-metadata==3.3.0
 ipykernel==5.4.2
-ipython==7.19.0
+
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 jedi==0.18.0
